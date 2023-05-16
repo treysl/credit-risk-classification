@@ -1,5 +1,7 @@
 # Credit Risk Classification
- 
+## Summary
+In this challenge, I will use various techniques to train and evaluate a model based on loan risk. I will use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
+
 ## Logistical Regression Model
 #### Balanced Accuracy Score: 0.9520479254722232
 ![Screenshot 2023-05-16 at 11 01 44 AM](https://github.com/treysl/credit-risk-classification/assets/96922295/6b0733c1-6065-40b4-84aa-44293067312d)
